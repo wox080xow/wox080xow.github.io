@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Iansui;
+    src: url(../fonts/Iansui-nokanji.ttf);
+}
+/* 先把字型拉到自己的資料夾，再打這串code連結進網頁 */
+.iansui {
+    font-family: Iansui;
+}

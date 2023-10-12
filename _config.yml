@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/hacker@v0.2.0
 title: wox080xow's home page
 description: Bookmark this to keep an eye on my project updates!

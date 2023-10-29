@@ -1,7 +1,9 @@
+---
 layout: post
 title: "hello"
 date: 2023-10-30 03:00:00 +0800
 categories: test hello
+---
 
 # Welcome
 

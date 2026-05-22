@@ -1,22 +1,17 @@
-<head>
-    <link href="assets/css/index.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Noto+Sans+Mono|Noto+Serif" rel="stylesheet">
-    <style>
-        .cg {
-            font-family: 'Cormorant Garamond';
-        }
-        .nsm {
-            font-family: 'Noto Sans Mono';
-        }
-        .nserif {
-            font-family: 'Noto Serif';
-        }
-    </style>
-</head>
-Hello world from Lí Ka-io̍k.
-<p>Lí Ka-io̍k ài chia̍h tiⁿ ê ō͘-kóe.</p>
-<p class="cg">Lí Ka-io̍k ài chia̍h tiⁿ ê ō͘-kóe.</p>
-<p class="nsm">Lí Ka-io̍k ài chia̍h tiⁿ ê ō͘-kóe.</p>
-<p class="nserif">Lí Ka-io̍k ài chia̍h tiⁿ ê ō͘-kóe.</p>
-<p class="iansui">Lí Ka-io̍k ài chia̍h tiⁿ ê ō͘-kóe.</p>
+---
+layout: default
+title: Home
+---
 
+<link href="assets/css/index.css" rel="stylesheet">
+
+<p><a href="/about">About</a></p>
+
+<h2>Posts</h2>
+
+{% for post in site.posts %}
+<article>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+</article>
+{% endfor %}

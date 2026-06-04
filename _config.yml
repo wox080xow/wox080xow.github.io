@@ -2,8 +2,8 @@
 remote_theme: pages-themes/hacker@v0.2.0
 timezone: Asia/Taipei
 author: Lí Ka-io̍k
-title: wox080xow's home page
-description: Bookmark this to keep an eye on my project updates!
+title: wox080xow.github.io (Lí Ka-io̍k ê Blog)
+description: Tàu-tīn lâi siá Blog~
 kramdown:
   typographic_symbols:
     ndash: "--"

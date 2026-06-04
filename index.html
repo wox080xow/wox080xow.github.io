@@ -11,8 +11,6 @@ title: Home
 
 {% for post in site.posts %}
 <article>
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-  <br>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%Y-%m-%d" }}</time></h3>
 </article>
 {% endfor %}

@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+<p class="view">by {{ page.author | default: site.author }}</p>
+
+{{content}}
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+<hr>
+<script src="https://giscus.app/client.js"
+  data-repo="wox080xow/wox080xow.github.io"
+  data-repo-id="R_kgDOKfhMoQ"
+  data-category="General"
+  data-category-id="DIC_kwDOKfhMoc4C-gcw"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="bottom"
+  data-theme="dark_dimmed"
+  data-lang="zh-TW"
+  crossorigin="anonymous"
+  async>
+</script>

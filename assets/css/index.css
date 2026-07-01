@@ -1,8 +1,18 @@
 @font-face {
     font-family: Iansui;
-    src: url(../fonts/Iansui-nokanji.ttf);
+    src: url("../fonts/Iansui-nokanji.ttf");
 }
 /* 先把字型拉到自己的資料夾，再打這串code連結進網頁 */
+
+/* 把 Iansui 套用到整個網頁的文字（含主題預設的等寬字都蓋掉） */
+body,
+h1, h2, h3, h4, h5, h6,
+p, li, a, small, em, strong,
+blockquote, time,
+pre, code {
+    font-family: Iansui, sans-serif;
+}
+
 .iansui {
-    font-family: Iansui;
+    font-family: Iansui, sans-serif;
 }

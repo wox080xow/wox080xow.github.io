@@ -11,3 +11,6 @@ Góa ê bāng-ia̍h.
 >  If not, go to learn POJ.
 
 Lí Ka-io̍k ài chia̍h tiⁿ ê ō͘-kóe.
+
+> 苔玉です！
+![kokedama](https://postimg.cc/r0QRFk64)

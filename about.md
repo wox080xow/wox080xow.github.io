@@ -13,4 +13,4 @@ Góa ê bāng-ia̍h.
 Lí Ka-io̍k ài chia̍h tiⁿ ê ō͘-kóe.
 
 > 苔玉です！
-![kokedama](https://postimg.cc/r0QRFk64)
+![kokedama](https://i.postimg.cc/MH8756d9/IMG-4227.jpg)

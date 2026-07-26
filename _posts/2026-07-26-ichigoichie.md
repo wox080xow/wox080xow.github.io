@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "いちごいちえ"
+tags: [kíⁿ-bīn, iân-hūn, BlogBlog 同樂會]
+---
+> 這是我的「[BlogBlog 同樂會 - 2026 年 8 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[一期一會](https://blog.ikukaroom.com/ichigo-ichie/)」，由 [ikuka](https://blog.ikukaroom.com/) 主持。如果你有自己的部落格，歡迎一起來參加！
+
+Hioh-kôaⁿ chi̍t-chām--ah. Kin-nî hâm éng-kòe sio-kâng, kui-ke-hóe-á chē a-chek ê chhia chò-hóe lo̍h-lâm kòe-nî. Thiⁿ o͘-im o͘-im.
+
+A-chek sǹg-kóng chin chá tio̍h kàu a-má tau. Chhin-chiâⁿ gō͘-cha̍p mā lio̍k-sio̍k tńg--lâi. Pêng-siông-sî hán teh kíⁿ-bīn, chit-ê sî-chūn tāi-ke thang tng-bīn khai-káng, lāu-jia̍t kah. Góa soah bô-ì bô-ì. 
+
+Sī-tōa sio-chioh-mn̄g, khah mn̄g mā sī tha̍k-chu khó-chhì, hō͘ lâng kám-kak chiok ùi. Koh-chài kóng, tāi-hak khó-chhì tio̍h beh kàu--a. Chêng hioh-kôaⁿ kàu taⁿ, chheh si̍t-chāi tha̍k bô siáⁿ ē loeh. Tńg ē-káng kòe-nî, góa 1 pún chheh to bô chah, sim-lāi iáu-sī chiâⁿ chiau-cho.
+
+A-má tau ê kheh-thiaⁿ e-e-kheh-kheh koh joa̍h-hut-hut, góa soah hi-bî koh ut-chut. Góa 1 ê lâng lī-khui kheh thiaⁿ, teh chhù ê sì-kho͘-liàn-tńg se̍h-se̍h--le. Thâu-khak-óaⁿ siūⁿ--ê sī beh án-chóaⁿ lī-khui chit ê chng-kha só͘-chai. Chit-kho͘-lê-á chin phiah-siah, 1 kang kan-taⁿ 3 pang kong-chhia ē keng-kóe ē-chng ke-á. Góa a̍h bē-hiáu sái-chhia, khiā o͘-tó͘-bái. Siūⁿ-tio̍h ài tòa tiàm chia kui lé-pài, ta̍k-kang hō͘ sī-tōa mn̄g tang mn̄g sai, góa tio̍h jú lâi jú kan-khó͘.
+
+Kiâⁿ kàu āu-tiâⁿ bô tiuⁿ-tî tn̄g-tio̍h 2 chiah káu-á-kiáⁿ. 1 chiah ām-kho͘ sī hún-âng-á-sek, 1 chiah sī chheⁿ-sek. Ná chhiūⁿ 1 chiah kang ê, 1 chiah bó ê. Bô khòaⁿ-tio̍h káu-bó tiàm in sin-khu-piⁿ, pháng sī tn̄g-leng--ah. N̂g-mo͘ ê káu-á-kiáⁿ, m̄ chai sī siáⁿ-mih phín-chéng. 2 lúi ba̍k-chiu oa̍h-lêng-lêng, téng-sûn ê ba̍k-ham koh bî-bî-á sôe ǹg 2 pêng, khòaⁿ tio̍h chin tit-lâng-thiàⁿ. Góa sûi khû loeh chhu chhiú ka in bong. Mo͘ lio̍h-á chhak-chhak, m̄-koh in chiâⁿ koai, teh bong ê sî bē kiu mā bē cháu-siám. Ná khòaⁿ sī ná kó͘-chui. 
+
+O͘-im-thiⁿ ka-chāi bô lo̍h-hō͘. Góa kap 2 chiah káu-á-kiáⁿ tiàm āu-tiâⁿ chhit-thô kui ê-po͘. Khòaⁿ in cháu sio-jio̍k, a̍h sī ké-iáⁿ sio-kā, sim-sek-á sim-sek. Āu-tiâⁿ ū 1 tâi ko͘-lián chài thô͘ ê chhiú-sak-chhia. Chhia-á bô kàu 1 bí koân, khǹg-thô͘ ê chhia-táu mā bô chhim, iáu-m̄-koh pí káu-á-kiáⁿ khah koân--chi̍t-sut-á. Góa chi̍t-sî hèng-hèng siūⁿ kóng, nā kā káu-á-kiáⁿ lia̍h lâi khǹg tī hin, khòaⁿ in án-chóaⁿ hoán-èng tiāⁿ-tio̍h chiok chhù-bī! Sûi lia̍h chheⁿ ām-kho͘ ê hit-chiah lâi chhì-giām. I tāi-seng 1 siang chêng-kha khòe teh táu-kîⁿ, thâu lio̍h-á tham--chhut-lâi, ná-chhiūⁿ teh àn-sǹg i chàng-sî "káu" tī teh tó-ūi. I chi̍t-ē hoat-kak ka-tī teh koân-khám, lī thô͘-kha iáu ū 1 tōaⁿ, sûi kìn-tiuⁿ kah haiⁿ--2-siaⁿ. Khòe teh táu-kîⁿ ê chêng-kha chhun 1 ki ǹg gōa-kháu, siūⁿ beh lī-khui ê khoán-sit, khêng chin án-ne bē sêng. Bô gōa-kú i tó-tńg-khì táu lāi liáu, sûi thiàu ǹg gōa-kháu, put-jî-kò kha̍h tòa táu-kîⁿ. I liâm-piⁿ thè tńg-khì táu lāi koh têng thiàu 1 kái. Chit-piàn bô sêng koh 1 piàn, chhì kàu tē-4-pái sêng-kong tùi chhia-táu thiàu chhut-lâi thô͘-kha! Hō͘ lâng tōa kó͘-bú! Soà--lo̍h koh lia̍h i khǹg ji̍p-khì thô͘-chhia ê táu lāi, chit-hôe i kan-taⁿ 2 piàn tio̍h tùi chhia-táu thiàu--chhut-lâi! Koh lâi tio̍h hún-âng ām-kho͘ ê hit-chiah, taⁿ-á kā i phō ji̍p-lâi táu lāi, i hiān haiⁿ hō͘ góa thiaⁿ. 1 bīn hiaⁿ, 1 bīn phi̍h-phi̍h-chhoah, koh 2 lúi ba̍k-chiu kim-tak-tak khòaⁿ ùi góa chia lâi, beh ài góa kā phō chhut-lâi gōa-bīn. Góa khòaⁿ án-ne m̄ sī pān-hoat, sûi kā i phō--chhut-lâi, an teh thô͘-chhia piⁿ--ê. Kā chheⁿ ām-kho͘--ê lia̍h lâi chò bô͘-hoān, thiàu 1 kái hō͘ i khòaⁿ-mai. Chit-hôe chheⁿ--ê koh khah lī-hāi, to̍k-to̍k 1 piàn tio̍h thiàu chhut chhia-táu. Góa koh lia̍h hún-âng--ê ji̍p--lâi chhia-táu, chit hôe i sin-khu kiu chò 1 oân, ná haiⁿ ná phi̍h-phi̍h-chhoah, oân-á m̄ chai beh án-chóaⁿ chiah hó. Ko͘-put-jī-saⁿ-chiong, góa koh kā chheⁿ--ê lia̍h ji̍p--khì táu lāi, hō͘ i koh demo 1 pái. Chheⁿ--ê chiâⁿ súi-khùi, chi̍t-sî-á tio̍h chhut-khì gōa-kháu. Hún-âng--ê ū iūⁿ khòaⁿ iūⁿ, tòe teh pôaⁿ chhiûⁿ. Chhì liáu kúi pái, bóe-chhiú mā sī hō͘ i thiàu--chhut-lâi--ah! Chū-án-ne, it-ti̍t kàu chia̍h-àm, góa chiah kap 2 chiah káu-á-kiáⁿ hun-khui.
+
+Kòe-nî kui lé-pài, góa lóng kap in sio-phōaⁿ, teh āu-tiâⁿ chò-hóe chhit-thô. Kàu kah kà-kî kiat-sok, chē a-chek ê chhia chiūⁿ-pak, chèng-sek kap 2 chiah káu-á sio-sî.
+
+Āu--lâi chheng-bêng pōe-bōng, góa koh tńg-lâi ē-káng. Teh a-má tau sûi khì mn̄g a-peh hit 2 chiah káu-á teh tó-ūi. In tōa liáu chiok kín, ām-kho͘ mā piàn-kah chiok peⁿ, í-keng m̄ sī kòe-nî hit-chun ê káu-á-kiáⁿ, iáu-sī chin kó͘ chui lah. Chit-táu tńg--lâi khah kóaⁿ-kín, ê-po͘ pōe-bōng liáu, keh-tńg-kang thàu-chá tio̍h chiūⁿ-pak lo͘h. Bô chham in chhit-thô gōa-kú.
+
+Gō͘-ji̍t-cheh góa oân-á tòe a-chek lo̍h-lâm. Kàu kah a-má tau, góa kāng-khoán chhím-thâu tio̍h chông-khì mn̄g a-peh kóng, hit 2 chiah teh tó-ūi. Chit-táu a-peh soah kā góa kóng, 1 chiah bô sé-jī chia̍h tio̍h niau-chhì-io̍h-á hông thāu--sí, 1 chiah hō͘ chhia lōng-tio̍h siū tāng siong bô oa̍h--lo̍h-lâi. Hit-ji̍t, gōa-kháu ê ji̍t-thâu chhiah-iāⁿ-iāⁿ.
+
+![hún-âng ām-kho͘ ê hit-chiah](https://i.postimg.cc/KcKFTgfs/Puppy-Photo.jpg)

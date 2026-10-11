@@ -5,8 +5,6 @@ tags: [gí-giân, chèng-tī, Tâi-gí, Tâi-oân-ōe, BlogBlog 同樂會]
 ---
 > 這是我的「[BlogBlog 同樂會 - 2026 年 10 月](https://blogblog.club/party)」的投稿文章。本月主題是「[語言的習得、傳承與推廣](https://angeci.github.io/blog/zh/blogblog-party-languages/)」，由 [AngeCI](https://angeci.github.io/blog/zh/) 主持。如果你有自己的部落格，歡迎一起來參加！
 
-Lūn Tâi-oân Chèng-tī Jîn-bu̍t Tâi-gí Thêng-tō͘
-
 [THBK tē-hng soán-kí](https://web.cec.gov.tw/central/article/63642) beh kàu--a. Ē-hiáu Tâi-oân-ōe--ê, a̍h-sī bē hiáu--ê, lóng ài chhut-lâi hâm soán-bîn pôaⁿ-nóa kám-chêng, bóng kóng--2-kù. Góa khòaⁿ chin chē lâng teh lūn hāu-soán-jîn ê Eng-gí thêng-tō͘, liān [Tiong-kok-lâng mā teh piⁿ--a tàu hoah sio](https://youtu.be/CIA3MJmQdVI?si=VvM08PPdyBtccNmx). Si̍t-chāi chin sim-sek. Soah bô lâng teh khòaⁿ lán chiah-ê hāu-soán-jîn Tâi-gí kóng liáu ū súi--bô. Siūⁿ-kóng bô lâng chò, góa ka-tī khioh lâi chò. Hō͘ tāi-ke bóng chham khó, tàu-tīn chhù-bī--1-ē.
 
 Hun-kip-pió(tier list) góa sī teh bāng-lō͘ o͘-pe̍h khioh lâi ê, hoâiⁿ-ti̍t thiah-chò 6 kip. Siāng téng-koân sī hó, siāng kē-kha sī bái. Tùi ē-té phah-khí, thâu 1 ê sī "khioh-ka̍k" ì-sù tio̍h-sī bô lō͘-iōng, beh kā i hìⁿ-sak ê ì-sù. Koh-lâi sī "lak-chhat", teh​ kóng piah iû-chhat hó-sè, soah hông khò--tio̍h "lak-chhat", teh kóng ū khiàm-tiám, làu-khùi án-ne. Sòa--lo̍h-lâi sī "phó͘-phó͘", teh kóng chin phó͘-thong, ē-tit-kòe nā-tiāⁿ. Chiap-sòa sī "gâu", che thó͘-siūⁿ mā chai, tio̍h-sī "m̄-chiâⁿ-kâu" lah! Koh-chài --khí-lí sī "tē-it-téng", tio̍h thâu-miâ kài lī-hāi ê ì-sù. Ah-nā siāng koân-khám ê kéng-kài chiū-sī "it-lia̍p-it", teh tē-it-téng lāi-bīn siāng chhut-chèng, siāng chhut-tioh--ê.

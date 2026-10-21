@@ -1,2 +1,8 @@
 # wox080xow.github.io
-My own github pages (experimental)
+Góa ê Blog.
+
+# Kī-su̍t 
+[Jekyll](https://jekyllrb.com)
+
+# Jī-kut
+[Iân-sui](https://github.com/ButTaiwan/iansui)
